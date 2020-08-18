@@ -1,0 +1,13 @@
+C:\Users\Valkyrie\Documents\Visual Studio Code\C# Code\XML File Create\bin\Debug\netcoreapp3.1\XML File Create.exe
+C:\Users\Valkyrie\Documents\Visual Studio Code\C# Code\XML File Create\bin\Debug\netcoreapp3.1\XML File Create.deps.json
+C:\Users\Valkyrie\Documents\Visual Studio Code\C# Code\XML File Create\bin\Debug\netcoreapp3.1\XML File Create.runtimeconfig.json
+C:\Users\Valkyrie\Documents\Visual Studio Code\C# Code\XML File Create\bin\Debug\netcoreapp3.1\XML File Create.runtimeconfig.dev.json
+C:\Users\Valkyrie\Documents\Visual Studio Code\C# Code\XML File Create\bin\Debug\netcoreapp3.1\XML File Create.dll
+C:\Users\Valkyrie\Documents\Visual Studio Code\C# Code\XML File Create\bin\Debug\netcoreapp3.1\XML File Create.pdb
+C:\Users\Valkyrie\Documents\Visual Studio Code\C# Code\XML File Create\obj\Debug\netcoreapp3.1\XML File Create.csprojAssemblyReference.cache
+C:\Users\Valkyrie\Documents\Visual Studio Code\C# Code\XML File Create\obj\Debug\netcoreapp3.1\XML File Create.AssemblyInfoInputs.cache
+C:\Users\Valkyrie\Documents\Visual Studio Code\C# Code\XML File Create\obj\Debug\netcoreapp3.1\XML File Create.AssemblyInfo.cs
+C:\Users\Valkyrie\Documents\Visual Studio Code\C# Code\XML File Create\obj\Debug\netcoreapp3.1\XML File Create.csproj.CoreCompileInputs.cache
+C:\Users\Valkyrie\Documents\Visual Studio Code\C# Code\XML File Create\obj\Debug\netcoreapp3.1\XML File Create.dll
+C:\Users\Valkyrie\Documents\Visual Studio Code\C# Code\XML File Create\obj\Debug\netcoreapp3.1\XML File Create.pdb
+C:\Users\Valkyrie\Documents\Visual Studio Code\C# Code\XML File Create\obj\Debug\netcoreapp3.1\XML File Create.genruntimeconfig.cache

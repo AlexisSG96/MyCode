@@ -1,0 +1,13 @@
+C:\Users\Valkyrie\Documents\Visual Studio Code\C# Code\UTC Conversion\bin\Debug\netcoreapp3.1\UTC Conversion.exe
+C:\Users\Valkyrie\Documents\Visual Studio Code\C# Code\UTC Conversion\bin\Debug\netcoreapp3.1\UTC Conversion.deps.json
+C:\Users\Valkyrie\Documents\Visual Studio Code\C# Code\UTC Conversion\bin\Debug\netcoreapp3.1\UTC Conversion.runtimeconfig.json
+C:\Users\Valkyrie\Documents\Visual Studio Code\C# Code\UTC Conversion\bin\Debug\netcoreapp3.1\UTC Conversion.runtimeconfig.dev.json
+C:\Users\Valkyrie\Documents\Visual Studio Code\C# Code\UTC Conversion\bin\Debug\netcoreapp3.1\UTC Conversion.dll
+C:\Users\Valkyrie\Documents\Visual Studio Code\C# Code\UTC Conversion\bin\Debug\netcoreapp3.1\UTC Conversion.pdb
+C:\Users\Valkyrie\Documents\Visual Studio Code\C# Code\UTC Conversion\obj\Debug\netcoreapp3.1\UTC Conversion.csprojAssemblyReference.cache
+C:\Users\Valkyrie\Documents\Visual Studio Code\C# Code\UTC Conversion\obj\Debug\netcoreapp3.1\UTC Conversion.AssemblyInfoInputs.cache
+C:\Users\Valkyrie\Documents\Visual Studio Code\C# Code\UTC Conversion\obj\Debug\netcoreapp3.1\UTC Conversion.AssemblyInfo.cs
+C:\Users\Valkyrie\Documents\Visual Studio Code\C# Code\UTC Conversion\obj\Debug\netcoreapp3.1\UTC Conversion.csproj.CoreCompileInputs.cache
+C:\Users\Valkyrie\Documents\Visual Studio Code\C# Code\UTC Conversion\obj\Debug\netcoreapp3.1\UTC Conversion.dll
+C:\Users\Valkyrie\Documents\Visual Studio Code\C# Code\UTC Conversion\obj\Debug\netcoreapp3.1\UTC Conversion.pdb
+C:\Users\Valkyrie\Documents\Visual Studio Code\C# Code\UTC Conversion\obj\Debug\netcoreapp3.1\UTC Conversion.genruntimeconfig.cache
