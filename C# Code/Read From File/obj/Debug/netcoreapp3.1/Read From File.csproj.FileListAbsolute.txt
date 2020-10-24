@@ -11,3 +11,18 @@ C:\Users\Valkyrie\Documents\Visual Studio Code\C# Code\Read From File\obj\Debug\
 C:\Users\Valkyrie\Documents\Visual Studio Code\C# Code\Read From File\obj\Debug\netcoreapp3.1\Read From File.dll
 C:\Users\Valkyrie\Documents\Visual Studio Code\C# Code\Read From File\obj\Debug\netcoreapp3.1\Read From File.pdb
 C:\Users\Valkyrie\Documents\Visual Studio Code\C# Code\Read From File\obj\Debug\netcoreapp3.1\Read From File.genruntimeconfig.cache
+C:\Users\Valkyrie\Desktop\MyCode\C# Code\Read From File\bin\Debug\netcoreapp3.1\Read From File.exe
+C:\Users\Valkyrie\Desktop\MyCode\C# Code\Read From File\bin\Debug\netcoreapp3.1\Read From File.deps.json
+C:\Users\Valkyrie\Desktop\MyCode\C# Code\Read From File\bin\Debug\netcoreapp3.1\Read From File.runtimeconfig.json
+C:\Users\Valkyrie\Desktop\MyCode\C# Code\Read From File\bin\Debug\netcoreapp3.1\Read From File.runtimeconfig.dev.json
+C:\Users\Valkyrie\Desktop\MyCode\C# Code\Read From File\bin\Debug\netcoreapp3.1\Read From File.dll
+C:\Users\Valkyrie\Desktop\MyCode\C# Code\Read From File\bin\Debug\netcoreapp3.1\Read From File.pdb
+C:\Users\Valkyrie\Desktop\MyCode\C# Code\Read From File\obj\Debug\netcoreapp3.1\Read From File.csprojAssemblyReference.cache
+C:\Users\Valkyrie\Desktop\MyCode\C# Code\Read From File\obj\Debug\netcoreapp3.1\Read From File.AssemblyInfoInputs.cache
+C:\Users\Valkyrie\Desktop\MyCode\C# Code\Read From File\obj\Debug\netcoreapp3.1\Read From File.AssemblyInfo.cs
+C:\Users\Valkyrie\Desktop\MyCode\C# Code\Read From File\obj\Debug\netcoreapp3.1\Read From File.dll
+C:\Users\Valkyrie\Desktop\MyCode\C# Code\Read From File\obj\Debug\netcoreapp3.1\Read From File.pdb
+C:\Users\Valkyrie\Desktop\MyCode\C# Code\Read From File\obj\Debug\netcoreapp3.1\Read From File.genruntimeconfig.cache
+C:\Users\Valkyrie\Desktop\MyCode\C# Code\Read From File\bin\Debug\netcoreapp3.1\WindowsInput.dll
+C:\Users\Valkyrie\Desktop\MyCode\C# Code\Read From File\obj\Debug\netcoreapp3.1\Read From File.csproj.CoreCompileInputs.cache
+C:\Users\Valkyrie\Desktop\MyCode\C# Code\Read From File\obj\Debug\netcoreapp3.1\Read From File.csproj.CopyComplete

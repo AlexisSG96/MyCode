@@ -9,10 +9,15 @@ namespace Read_From_File
     {
         static void Main(string[] args)
         {
+            PlayBongo BC = new PlayBongo();
+        }
+
+        static void Test()
+        {
             string CurrentDirectory = Directory.GetCurrentDirectory();
             string FileName = "Sample.txt";
-            string FilePath = CurrentDirectory + @"\"  + FileName;
-            
+            string FilePath = CurrentDirectory + @"\" + FileName;
+
             //runStreamReaderClass(FilePath);
             //runReadEntireText(FilePath);
             runReadLineByLine(FilePath);
